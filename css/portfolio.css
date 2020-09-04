@@ -18,7 +18,7 @@ button {
 header {
   border-bottom: 1px solid #ececec;
 }
-/* Filter */
+/* FILTER */
 
 .filter {
   display: flex;
@@ -52,7 +52,7 @@ header {
   background-color: var(--accent-color);
 }
 
-/* Examples */
+/* EXAMPLES */
 
 .examples {
   display: flex;
